@@ -1,67 +1,96 @@
-# Privacy Policy for Mahjong Go
+# Privacy Policy for Mahjong One
 
-**Last updated: 28 August 2026**
+**Last updated: 4 September 2026**
 
-Mahjong Go is developed and published by **dolphinigle**
+Mahjong One is developed and published by **dolphinigle**
 ("we", "us"). This policy explains what the app does with your information.
 
 Contact for any privacy question: **dolphinigle.mailbox@gmail.com**
 
 ## The short version
 
-**Mahjong Go does not collect, store, transmit or share any personal
-information.** The app has no network code, no analytics, no advertising, no
-accounts and no login. It works with the internet switched off, because it never
-uses it.
+**We do not collect anything about you ourselves.** There are no accounts, no
+login, no analytics and no crash reporting, and your game never leaves your
+device.
+
+The app does contain **Google AdMob**, which shows an advertisement when the app
+is opened — at most once per opening, never during a hand, and not at all for
+the first several times you play. Google's advertising SDK collects information
+of its own, and the section below says what and links to Google's own policy.
+That is the one part of this app that uses the internet.
 
 ## What the app stores
 
-Only your game: the hand in progress, your scores, and your settings such as the
-chosen difficulty. All of it is written to your device's private app storage and
-never leaves the device. Nobody else — including us — can read it.
+Only your game: the hand in progress, your scores, your best score on each
+ruleset, and your settings such as the chosen difficulty and language. All of it
+is written to your device's private app storage and never leaves the device.
+Nobody else — including us — can read it.
 
 Uninstalling the app deletes all of it. There is nothing to request, export or
 delete from us, because we never receive anything.
 
 ## Data we collect
 
-None.
+**None.** We operate no server and receive no data of any kind.
 
-Specifically, we do not collect or transmit: your name, email address, phone
-number, contacts, location, device identifiers, advertising ID, IP address,
-photos, files, microphone or camera input, or any record of how you use the app.
+Specifically, we never collect or transmit: your name, email address, phone
+number, contacts, location, photos, files, microphone or camera input, your
+saved games, your scores, or any record of how you play.
+
+## Advertising
+
+The app shows app-open advertisements through **Google AdMob**. Google's SDK,
+not us, collects and processes the data involved. That typically includes your
+device's advertising ID, IP address, general device information and interactions
+with the advertisement, and Google may use it to select and measure adverts.
+
+* Google's policy: <https://policies.google.com/technologies/partner-sites>
+* You can reset or delete your advertising ID at any time in **Settings →
+  Google → Ads** on your phone.
+* In the European Economic Area and the United Kingdom, a consent form is shown
+  before any personalised advertising, and your choice can be changed later from
+  the privacy option in the app.
+
+Advertisements are deliberately limited: app-open only, at most one per opening,
+none for the first several launches, and none while a hand is in play.
+
+## Updates
+
+The app can tell you when a newer version is available on Google Play, and
+offers it as an optional button on the menu. This asks the Google Play Store app
+already on your phone; it sends nothing about you, and taking the update is
+always your choice.
 
 ## Permissions
 
-Mahjong Go requests no Android permissions. It does not even ask for internet
-access.
+The app declares the permissions Google's advertising SDK requires, including
+internet and network access and access to the advertising ID. It requests no
+permission that shows a prompt: no location, contacts, storage, microphone or
+camera.
 
 ## Third parties
 
-The app contains no third-party SDKs — no analytics, no crash reporting, no
-advertising, no social logins. Nothing about you is shared with anyone, because
-nothing about you is collected.
-
-If a future version adds advertising, this policy will be updated **before** that
-version ships, this page will say exactly what the advertising provider collects,
-and the Play Store listing's Data Safety section will be updated to match.
+The app includes the **Google Mobile Ads (AdMob)** SDK, Google's **User
+Messaging Platform** for consent, and Google Play's **in-app update** library.
+There is no analytics SDK, no crash reporting, no social login, and nothing
+about you is shared with anyone by us.
 
 ## Children
 
-Mahjong Go is a traditional tile game suitable for general audiences. It is not
-directed at children under 13 and collects no data from anyone of any age.
+Mahjong One is a traditional tile game suitable for general audiences. It is not
+directed at children under 13.
 
 ## Money
 
-There is no money in Mahjong Go. It contains no purchases, no virtual currency,
+There is no money in Mahjong One. It contains no purchases, no virtual currency,
 no wagering and no way to cash anything out. Faan and points are game score and
 nothing more.
 
 ## Security
 
-Since no data is transmitted or stored off your device, there is nothing in
-transit to intercept and nothing on a server to breach. Your saved game is
-protected by Android's standard per-app storage isolation.
+We hold no data about you, so there is nothing on a server of ours to breach.
+Your saved game and your best scores are protected by Android's standard per-app
+storage isolation.
 
 ## Changes to this policy
 
