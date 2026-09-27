@@ -1,6 +1,6 @@
 # Privacy Policy for Mahjong One
 
-**Last updated: 4 September 2026**
+**Last updated: 27 September 2026**
 
 Mahjong One is developed and published by **dolphinigle**
 ("we", "us"). This policy explains what the app does with your information.
@@ -10,8 +10,8 @@ Contact for any privacy question: **dolphinigle.mailbox@gmail.com**
 ## The short version
 
 **We do not collect anything about you ourselves.** There are no accounts, no
-login, no analytics and no crash reporting, and your game never leaves your
-device.
+login, no analytics and no crash reporting, and we never receive your game: it
+stays on your device (and in your own Android backup, if you have turned that on).
 
 The app does contain **Google AdMob**, which shows an advertisement when the app
 is opened — at most once per opening, never during a hand, and not at all for
@@ -22,8 +22,11 @@ That is the one part of this app that uses the internet.
 ## What the app stores
 
 Only your game: the hand in progress, your scores, your best score on each
-ruleset, and your settings such as the chosen difficulty and language. All of it
-is written to your device's private app storage and never leaves the device.
+ruleset, your Campaign saves and their coins, and your settings such as the
+chosen difficulty and language. All of it is written to your device's private
+app storage. If you have turned on Android's own backup, Android may copy it to
+your own Google account, as it does for your other apps; that copy is yours, and
+we never receive it.
 Nobody else — including us — can read it.
 
 Uninstalling the app deletes all of it. There is nothing to request, export or
@@ -82,9 +85,14 @@ directed at children under 13.
 
 ## Money
 
-There is no money in Mahjong One. It contains no purchases, no virtual currency,
-no wagering and no way to cash anything out. Faan and points are game score and
-nothing more.
+There is no real money in Mahjong One. It contains no purchases, no wagering
+and no way to cash anything out. Faan and points are game score and nothing
+more.
+
+The Campaign keeps an in-game coin. It is earned only by playing: it is never
+sold and cannot be bought, and it can never be cashed out or exchanged for money,
+prizes or anything outside the game. Your coins are stored with the rest of your
+game, on your device, and we never receive them.
 
 ## Security
 
