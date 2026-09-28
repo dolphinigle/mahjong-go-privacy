@@ -10,8 +10,9 @@ Contact for any privacy question: **dolphinigle.mailbox@gmail.com**
 ## The short version
 
 **We do not collect anything about you ourselves.** There are no accounts, no
-login, no analytics and no crash reporting, and we never receive your game: it
-stays on your device (and in your own Android backup, if you have turned that on).
+login, no analytics and no crash reporting, and your game is never sent to us.
+It is kept on your device and, if you have Android's backup turned on, in your
+own backup with your Google account, so a new phone can bring it back.
 
 The app does contain **Google AdMob**, which shows an advertisement when the app
 is opened — at most once per opening, never during a hand, and not at all for
@@ -24,19 +25,25 @@ That is the one part of this app that uses the internet.
 Only your game: the hand in progress, your scores, your best score on each
 ruleset, your Campaign saves and their coins, and your settings such as the
 chosen difficulty and language. All of it is written to your device's private
-app storage. If you have turned on Android's own backup, Android may copy it to
-your own Google account, as it does for your other apps; that copy is yours, and
-we never receive it.
-Nobody else — including us — can read it.
+app storage. Nobody else — including us — can read it there.
 
-Uninstalling the app deletes all of it. There is nothing to request, export or
-delete from us, because we never receive anything.
+**Your own Android backup.** If backup is turned on for your phone, Android
+includes this app's data, your game and your settings, in that backup, so that
+a new or reset phone can restore them, your Campaign saves among them. Android
+also copies them when you move your data to a new phone. The backup belongs to
+your own Google account and is kept by Google under your account's settings;
+it is never sent to us, and we cannot read it. With backup turned off, your
+game stays on this phone, unless you move your data to a new one yourself.
+
+Uninstalling the app deletes all of it from the device. A copy in your Android
+backup follows your backup settings, where you can delete it. There is nothing
+to request, export or delete from us, because we never receive anything.
 
 ## Data we collect
 
 **None.** We operate no server and receive no data of any kind.
 
-Specifically, we never collect or transmit: your name, email address, phone
+Specifically, we never collect or receive: your name, email address, phone
 number, contacts, location, photos, files, microphone or camera input, your
 saved games, your scores, or any record of how you play.
 
@@ -91,14 +98,16 @@ more.
 
 The Campaign keeps an in-game coin. It is earned only by playing: it is never
 sold and cannot be bought, and it can never be cashed out or exchanged for money,
-prizes or anything outside the game. Your coins are stored with the rest of your
-game, on your device, and we never receive them.
+prizes or anything outside the game. Your coins are stored with the rest of
+your game, on your device and in your own Android backup if you have backup
+turned on, and we never receive them.
 
 ## Security
 
 We hold no data about you, so there is nothing on a server of ours to breach.
 Your saved game and your best scores are protected by Android's standard per-app
-storage isolation.
+storage isolation, and a copy in your Android backup by your own Google
+account.
 
 ## Changes to this policy
 
